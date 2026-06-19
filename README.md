@@ -1,4 +1,3 @@
-# Telegram
 # Telegram Clone Web
 
 A real-time web chat application inspired by Telegram, built with **Next.js**, **TypeScript**, and **Supabase**.
